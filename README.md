@@ -1,4 +1,6 @@
 <div align="center">
+## 👋 Hi, I'm Web Stasia
+## 🔐 Cybersecurity Enthusiast · 💻 Web & App Developer · 🎨 Graphic Designer
 
 <!-- PROFILE BANNER -->
 
@@ -22,7 +24,11 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a technology enthusiast passionate about combining **security, development, and creativity** to build meaningful digital experiences.
+I'm a technology enthusiast passionate about Cybersecurity, Ethical Hacking, Programming, Digital Education, and Creative Technology.
+
+I'm focused on developing practical cybersecurity skills, building security-focused projects, and helping beginners understand technology through hands-on learning.
+
+I believe technology education should be accessible, practical, and empowering, especially for young people looking to build sustainable careers in the digital economy.
 
 My interests span across:
 
@@ -30,6 +36,11 @@ My interests span across:
 * 💻 **Web & App Development** — building responsive and interactive digital applications
 * 🎨 **Graphic Design** — creating clean, engaging, and visually appealing designs
 * 🧠 **Continuous Learning** — exploring new technologies and improving my technical skills
+* 🛡️ **Security Analysis**
+* 🐍 **Python Programming**
+* 🔒 **Web Application Security**
+* 💻 **Technology Education**
+* 📚 **Technical Learning & Documentation**
 
 I enjoy turning ideas into practical solutions while keeping **security, usability, and design** in mind.
 
