@@ -19,7 +19,7 @@
 
 ---
 
-## 👩🏽‍💻 About Me
+👩🏽‍💻 About Me
 
 I'm a technology enthusiast passionate about Cybersecurity, Ethical Hacking, Programming, Digital Education, and Creative Technology.
 
@@ -27,17 +27,15 @@ I'm focused on developing practical cybersecurity skills, building security-focu
 
 I believe technology education should be accessible, practical, and empowering, especially for young people looking to build sustainable careers in the digital economy.
 
-My interests span across:
-
-* 🔐 **Cybersecurity** — network security, security tools, ethical hacking, and defensive security
-* 💻 **Web & App Development** — building responsive and interactive digital applications
-* 🎨 **Graphic Design** — creating clean, engaging, and visually appealing designs
-* 🧠 **Continuous Learning** — exploring new technologies and improving my technical skills
-* 🛡️ **Security Analysis**
-* 🐍 **Python Programming**
-* 🔒 **Web Application Security**
-* 💻 **Technology Education**
-* 📚 **Technical Learning & Documentation**
+What I Do
+🔐 Cybersecurity & Ethical Hacking
+🛡️ Security Analysis
+🐍 Python Programming
+🌐 Web & App Development
+🔒 Web Application Security
+🎨 Graphic Design
+💻 Technology Education
+📚 Technical Learning & Documentation
 
 I enjoy turning ideas into practical solutions while keeping **security, usability, and design** in mind.
 
