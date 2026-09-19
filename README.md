@@ -1,12 +1,15 @@
 <div align="center">
-## 👋 Hi, I'm Web Stasia
-## 🔐 Cybersecurity Enthusiast · 💻 Web & App Developer · 🎨 Graphic Designer
 
-<!-- PROFILE BANNER -->
+👋 Hi, I'm Web Stasia
+🔐 Cybersecurity Enthusiast · 💻 Web & App Developer · 🎨 Graphic Designer
 
 <img src="https://github.com/Stasia2/Stasia2/blob/main/profile_banner.png?raw=true" alt="Web Stasia Profile Banner" width="100%"/>
 
-<br><br>
+<br/>
+
+Building secure, innovative, and visually engaging digital solutions. 🚀
+
+</div>
 
 <!-- TYPING ANIMATION -->
 
