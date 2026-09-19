@@ -129,28 +129,70 @@ I'm continuously expanding my technical knowledge in:
 
 **Don't just learn the theory. Build it. Test it. Break it. Understand it. Secure it.**
 
-📂 Featured Projects
+---
 
-<div align="center">
+## 📂 Featured Projects
 
-🔐 Cybersecurity Labs	🐍 Python Projects
-Hands-on security experiments, network security labs, CTF exercises, and practical cybersecurity research.	Automation, scripting, security utilities, and beginner-friendly Python projects.
-🌐 Web Security	📚 Learning Resources
-Web development projects focused on understanding and improving application security.	Notes, documentation, tutorials, and resources from my technology learning journey.
+Here are some of the projects and areas I'm currently building, exploring, and documenting.
 
-</div>
+### 🔐 Cybersecurity
 
-🔭 Projects You'll Find Here
-🔐 Cybersecurity Labs
-🛡️ Security & Network Projects
-🐍 Python Security Tools
-🌐 Web Development Projects
-🔒 Web Security Experiments
-📱 Application Development
-🎨 Graphic & Digital Design
-📚 Cybersecurity Learning Resources
+| Project                         | Description                                                                                    | Status      |
+| ------------------------------- | ---------------------------------------------------------------------------------------------- | ----------- |
+| 🛡️ **Cybersecurity Labs**      | Hands-on security experiments, network security labs, and practical exercises.                 | 🟡 Learning |
+| 🔍 **Vulnerability Assessment** | Projects and exercises focused on identifying and understanding security weaknesses.           | 🟡 Learning |
+| 🌐 **Web Security Labs**        | Practical exercises for understanding common web application security concepts.                | 🟡 Learning |
+| 🚩 **CTF Challenges**           | Capture The Flag challenges for developing practical cybersecurity and problem-solving skills. | 🟡 Learning |
 
-🚧 More projects are continuously being developed and added.
+### 🐍 Python & Programming
+
+| Project                      | Description                                                                            | Status      |
+| ---------------------------- | -------------------------------------------------------------------------------------- | ----------- |
+| 🐍 **Python Security Tools** | Python scripts and utilities for cybersecurity learning and automation.                | 🟡 Learning |
+| ⚙️ **Automation Projects**   | Small Python projects designed to automate repetitive tasks and improve productivity.  | 🟡 Learning |
+| 💻 **Programming Projects**  | Beginner-to-intermediate programming projects focused on improving development skills. | 🟡 Learning |
+
+### 🌐 Web & App Development
+
+| Project                      | Description                                                                          | Status      |
+| ---------------------------- | ------------------------------------------------------------------------------------ | ----------- |
+| 🌐 **Web Development**       | Responsive websites and interactive web applications.                                | 🟡 Learning |
+| 🔒 **Web Security Projects** | Web projects focused on understanding and improving application security.            | 🟡 Learning |
+| 📱 **App Development**       | Applications designed to solve practical problems and improve my development skills. | 🟡 Learning |
+
+### 🎨 Graphic & Digital Design
+
+| Project                   | Description                                             | Status      |
+| ------------------------- | ------------------------------------------------------- | ----------- |
+| 🎨 **Graphic Design**     | Digital graphics, creative designs, and visual content. | 🟡 Learning |
+| 🖌️ **Branding Projects** | Logos, visual identities, and branding concepts.        | 🟡 Learning |
+| 📱 **UI/UX Concepts**     | User interface and visual design experiments.           | 🟡 Learning |
+
+---
+
+## 🧭 Project Areas
+
+These are the main areas you can expect to find in my repositories:
+
+* 🔐 **Cybersecurity Labs**
+* 🛡️ **Security & Network Projects**
+* 🐍 **Python Security Tools**
+* 🌐 **Web Development**
+* 🔒 **Web Application Security**
+* 📱 **Application Development**
+* 🎨 **Graphic & Digital Design**
+* 📚 **Cybersecurity Learning Resources**
+* 🧪 **CTF & Security Challenges**
+
+---
+
+## 🚧 What's Next?
+
+I'm continuously building and documenting new projects.
+
+**More projects, experiments, and learning resources are coming soon. 🚀**
+
+> **Learn → Build → Test → Secure → Share**
 
 ---
 
