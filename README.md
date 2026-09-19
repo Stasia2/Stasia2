@@ -28,14 +28,14 @@ I'm focused on developing practical cybersecurity skills, building security-focu
 I believe technology education should be accessible, practical, and empowering, especially for young people looking to build sustainable careers in the digital economy.
 
 What I Do
-🔐 Cybersecurity & Ethical Hacking
-🛡️ Security Analysis
-🐍 Python Programming
-🌐 Web & App Development
-🔒 Web Application Security
-🎨 Graphic Design
-💻 Technology Education
-📚 Technical Learning & Documentation
+* **🔐 Cybersecurity & Ethical Hacking**
+* **🛡️ Security Analysis**
+* **🐍 Python Programming**
+* **🌐 Web & App Development**
+* **🔒 Web Application Security**
+* **🎨 Graphic Design**
+* **💻 Technology Education**
+* **📚 Technical Learning & Documentation**
 
 I enjoy turning ideas into practical solutions while keeping **security, usability, and design** in mind.
 
