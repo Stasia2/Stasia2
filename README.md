@@ -43,40 +43,24 @@ I enjoy turning ideas into practical solutions while keeping **security, usabili
 
 ## 🛡️ My Areas of Specialization
 
-<div align="center">
+🛡️ Cybersecurity
 
-<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="250" rx="20" fill="#0d1117"/>
+My cybersecurity journey focuses on developing practical skills through labs, projects, security exercises, and continuous learning.
 
-  <!-- Cybersecurity -->
+**🔎 Areas of Interest**
+**Area**                             **Focus**
+**🔐 Ethical Hacking	                 Security testing and understanding attack techniques**
+**🕵️ Vulnerability Assessment	         Identifying and understanding security weaknesses**
+**🛡️ Penetration Testing	             Practical security testing methodologies**
+**🌐 Network Security	                 Network monitoring, analysis, and defense**
+**💻 Web Security	                     Understanding common web application vulnerabilities**
+**🐧 Linux Security	                   Linux administration and security**
+**📡 Security Monitoring	             Detecting and analyzing suspicious activity**
+**🧠 Threat Analysis	                 Understanding threats and attack patterns**
+**🔎 OSINT	                           Open-source intelligence and information gathering**
+**📢 Security Awareness	               Promoting safer technology practices**
 
-  <rect x="25" y="25" width="270" height="200" rx="15" fill="#111827" stroke="#00d9ff" stroke-width="2"/>
-  <text x="160" y="75" text-anchor="middle" fill="#00d9ff" font-size="42">🔐</text>
-  <text x="160" y="120" text-anchor="middle" fill="white" font-size="22" font-family="Arial" font-weight="bold">CYBERSECURITY</text>
-  <text x="160" y="150" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Network Security</text>
-  <text x="160" y="175" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Ethical Hacking</text>
-  <text x="160" y="200" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Security Tools</text>
-
-  <!-- Development -->
-
-  <rect x="315" y="25" width="270" height="200" rx="15" fill="#111827" stroke="#6366f1" stroke-width="2"/>
-  <text x="450" y="75" text-anchor="middle" fill="#6366f1" font-size="42">💻</text>
-  <text x="450" y="120" text-anchor="middle" fill="white" font-size="22" font-family="Arial" font-weight="bold">DEVELOPMENT</text>
-  <text x="450" y="150" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Web Development</text>
-  <text x="450" y="175" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">App Development</text>
-  <text x="450" y="200" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Interactive Solutions</text>
-
-  <!-- Design -->
-
-  <rect x="605" y="25" width="270" height="200" rx="15" fill="#111827" stroke="#d946ef" stroke-width="2"/>
-  <text x="740" y="75" text-anchor="middle" fill="#d946ef" font-size="42">🎨</text>
-  <text x="740" y="120" text-anchor="middle" fill="white" font-size="22" font-family="Arial" font-weight="bold">GRAPHIC DESIGN</text>
-  <text x="740" y="150" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Visual Design</text>
-  <text x="740" y="175" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Branding</text>
-  <text x="740" y="200" text-anchor="middle" fill="#9ca3af" font-size="14" font-family="Arial">Creative Content</text>
-</svg>
-
-</div>
+I enjoy learning through hands-on labs, practical exercises, CTFs, cybersecurity projects, and security research.
 
 ---
 
