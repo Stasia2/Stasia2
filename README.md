@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Web Stasia
+<strong> 👋 Hi, I'm Web Stasia <strong/>
 🔐 Cybersecurity Enthusiast · 💻 Web & App Developer · 🎨 Graphic Designer
 
 <img src="https://github.com/Stasia2/Stasia2/blob/main/profile_banner.png?raw=true" alt="Web Stasia Profile Banner" width="100%"/>
