@@ -5,6 +5,8 @@
 
 <img src="https://github.com/Stasia2/Stasia2/blob/main/profile_banner.png?raw=true" alt="Web Stasia Profile Banner" width="100%"/>
 
+<br/>
+
 <!-- TYPING ANIMATION -->
 
 <a href="https://github.com/Stasia2"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacking+%26+Security+%F0%9F%9B%A1%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Web+%26+App+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;Building.+Securing.+Learning.+Teaching." alt="Typing SVG" /> </a>
