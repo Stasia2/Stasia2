@@ -137,36 +137,36 @@ Here are some of the projects and areas I'm currently building, exploring, and d
 
 ### 🔐 Cybersecurity
 
-| Project                         | Description                                                                                    | Status      |
-| ------------------------------- | ---------------------------------------------------------------------------------------------- | ----------- |
-| 🛡️ **Cybersecurity Labs**      | Hands-on security experiments, network security labs, and practical exercises.                 | 🟡 Learning |
-| 🔍 **Vulnerability Assessment** | Projects and exercises focused on identifying and understanding security weaknesses.           | 🟡 Learning |
-| 🌐 **Web Security Labs**        | Practical exercises for understanding common web application security concepts.                | 🟡 Learning |
-| 🚩 **CTF Challenges**           | Capture The Flag challenges for developing practical cybersecurity and problem-solving skills. | 🟡 Learning |
+| Project                         | Description                                                                              
+| ------------------------------- | ----------------------------------------------------------------------------------------------
+| 🛡️ **Cybersecurity Labs**      | Hands-on security experiments, network security labs, and practical exercises.              
+| 🔍 **Vulnerability Assessment** | Projects and exercises focused on identifying and understanding security weaknesses.       
+| 🌐 **Web Security Labs**        | Practical exercises for understanding common web application security concepts.             
+| 🚩 **CTF Challenges**           | Capture The Flag challenges for developing practical cybersecurity and problem-solving skills.
 
 ### 🐍 Python & Programming
 
-| Project                      | Description                                                                            | Status      |
-| ---------------------------- | -------------------------------------------------------------------------------------- | ----------- |
-| 🐍 **Python Security Tools** | Python scripts and utilities for cybersecurity learning and automation.                | 🟡 Learning |
-| ⚙️ **Automation Projects**   | Small Python projects designed to automate repetitive tasks and improve productivity.  | 🟡 Learning |
-| 💻 **Programming Projects**  | Beginner-to-intermediate programming projects focused on improving development skills. | 🟡 Learning |
+| Project                      | Description                                                                            | 
+| ---------------------------- | -------------------------------------------------------------------------------------- |
+| 🐍 **Python Security Tools** | Python scripts and utilities for cybersecurity learning and automation.          
+| ⚙️ **Automation Projects**   | Small Python projects designed to automate repetitive tasks and improve productivity.
+| 💻 **Programming Projects**  | Beginner-to-intermediate programming projects focused on improving development skills.
 
 ### 🌐 Web & App Development
 
-| Project                      | Description                                                                          | Status      |
-| ---------------------------- | ------------------------------------------------------------------------------------ | ----------- |
-| 🌐 **Web Development**       | Responsive websites and interactive web applications.                                | 🟡 Learning |
-| 🔒 **Web Security Projects** | Web projects focused on understanding and improving application security.            | 🟡 Learning |
-| 📱 **App Development**       | Applications designed to solve practical problems and improve my development skills. | 🟡 Learning |
+| Project                      | Description                                                                          
+| ---------------------------- | ------------------------------------------------------------------------------------
+| 🌐 **Web Development**       | Responsive websites and interactive web applications.                             
+| 🔒 **Web Security Projects** | Web projects focused on understanding and improving application security.           
+| 📱 **App Development**       | Applications designed to solve practical problems and improve my development skills. 
 
 ### 🎨 Graphic & Digital Design
 
-| Project                   | Description                                             | Status      |
-| ------------------------- | ------------------------------------------------------- | ----------- |
-| 🎨 **Graphic Design**     | Digital graphics, creative designs, and visual content. | 🟡 Learning |
-| 🖌️ **Branding Projects** | Logos, visual identities, and branding concepts.        | 🟡 Learning |
-| 📱 **UI/UX Concepts**     | User interface and visual design experiments.           | 🟡 Learning |
+| Project                   | Description                                            
+| ------------------------- | ------------------------------------------------------- 
+| 🎨 **Graphic Design**     | Digital graphics, creative designs, and visual content. 
+| 🖌️ **Branding Projects** | Logos, visual identities, and branding concepts.        
+| 📱 **UI/UX Concepts**     | User interface and visual design experiments.          
 
 ---
 
