@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> <strong> 👋 Hi, I'm Web Stasia <strong/> <h1/>
+<h1 <strong 👋 Hi, I'm Web Stasia <strong/> <h1/>
 <br>
 🔐 Cybersecurity Enthusiast · 💻 Web & App Developer · 🎨 Graphic Designer
 <br/>
